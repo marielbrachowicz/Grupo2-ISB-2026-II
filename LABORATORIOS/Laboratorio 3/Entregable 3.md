@@ -30,7 +30,9 @@ Figura 2. Colocación de los electrodos para la medición del músculo abductor 
 Figura 3. Colocación de los electrodos para la medición del músculo abductor corto del pulgar.
 </p>
 Ambos con el electrodo de referencia colocado en el codo.
+
 **Para los siguientes apartados se analizará únicamente la señal correspondiente al abductor corto del pulgar durante el movimiento leve, ya que las indicaciones del entregable solicitan la presentación y análisis de una señal EMG.**
+
 ## Video de señal en silencio eléctrico o reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada.
 <video controls width="400">
   <source src="imagenes/etapa_reposo.mp4" type="video/mp4">
