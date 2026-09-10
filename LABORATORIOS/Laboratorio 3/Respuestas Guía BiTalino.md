@@ -9,7 +9,8 @@ El filtro más importante al momento de procesar las señales EMG es el filtro p
 La amplitude de una señal EMG depende de la intensidad de la activación muscular: Una contracción más intensa producirá una mayor actividad eléctrica.
 En cuanto a la diferencia entre distintas ubicaciones del cuerpo, los músculos mas grandes sueles producir señales con mayor amplitud ya que tienen una mayor cantidad de fibras musculares activas.
 
-## 4. 
+## 4. Muestre una captura de pantalla de una parte relevante de los datos de electromiografía (EMG) obtenidos durante el experimento propuesto en la Sección D de un músculo facial de interés. Describa la señal obtenida.
+La captura de la señal EMG obtenida y su respectivo análisis se encuentran desarrollados en el archivo Markdown "Entregable 3", donde se describe el comportamiento de la señal registrada durante la actividad muscular evaluada.
 
 ## 5. Según su conocimiento, ¿La amplitud de la señal EMG es igual a la cantidad de fuerza generada por el músculo?
 La amplitud de la señal EMG no es exactamente igual a la fuerza generada por el músculo. Aunque una mayor fuerza generalmente se asocie con mayor activación muscular, la amplitud de una señal EMG depende de muchos otros factores como el tamño y ubicación del músculo, la posición de los electrodos, el número de fibras musculares actiadas, entre otros. Por lo que la relacion no es directa.

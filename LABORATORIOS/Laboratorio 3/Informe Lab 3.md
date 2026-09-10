@@ -35,7 +35,7 @@ El dispositivo cuenta con:
 - 1 salida analógica de 8 bits.
 Entradas y salidas digitales.
 
-![BITalino](bitalino.jpg)
+![BITalino](imagenes/bitalino.jpg)
 
 El BITalino utiliza una batería recargable LiPo de 3.7 V con capacidad aproximada de 500 mAh.
 
@@ -55,10 +55,11 @@ En OpenSignals se utilizó la opción "Find and configure devices" para detectar
 - el electrodo de referencia debe colocarse en una zona estable.
 - los electrodos de medicion deben ir en direccion de las fibras musculares y de preferencia en una zona con poco pelo.
 
-![electrodos de referencia](electrodo_referencia.jpeg)
+<div align="center">
+<img src="imagenes/electrodo_referencia.jpeg" width="250">
 
-![electrodos de medicion](electrodos_medicion.jpeg)
-
+<img src="imagenes/electrodos_medicion.jpeg" width="250">
+</div>
 4. Se realizaron dos tipos de pruebas:
 - Movimiento leve
 - Movimiento a contra fuerza
