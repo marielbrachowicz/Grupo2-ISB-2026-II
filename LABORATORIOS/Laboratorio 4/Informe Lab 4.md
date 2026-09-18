@@ -2,26 +2,22 @@
 
 ## Introducción
 
-En el presente laboratorio se realizó la adquisición y análisis de señales de electrocardiografía (ECG) utilizando el sistema BITalino y el sensor de ECG. 
+En el presente laboratorio se realizó la adquisición y análisis de señales de electrocardiografía (ECG) utilizando el sistema BITalino, el software OpenSignals y el sensor de ECG. 
 
 De acuerdo con la guía de BITalino, el ECG permite registrar las variaciones eléctricas asociadas con la actividad del corazón. La señal obtenida está relacionada con las diferentes etapas del ciclo cardíaco, incluyendo las ondas P, el complejo QRS y la onda T. Además, la guía señala que la dirección y amplitud de los componentes de la señal dependen de la orientación del dipolo cardíaco respecto a los electrodos.
-
-Para la adquisición se utilizaron tres electrodos, correspondientes a las dos entradas de medición y al electrodo de referencia del sensor ECG. 
-
-En este experimento se empleó la configuración de los electrodos sobre las clavículas y la cadera, específicamente sobre la cresta ilíaca. Esta disposición permite obtener las tres derivaciones bipolares de Einthoven: I, II y III, modificando la conexión de los electrodos.
 
 Las tres derivaciones de Einthoven permiten observar la actividad eléctrica cardíaca desde diferentes direcciones. La derivación I corresponde a la diferencia de potencial entre el brazo derecho (RA) y el brazo izquierdo (LA), la derivación II entre el brazo derecho y la pierna izquierda (LL), y la derivación III entre el brazo izquierdo y la pierna izquierda.
 
 ## Metodología
 
-El experimento consistió en realizar adquisiciones de la señal ECG bajo diferentes condiciones fisiológicas y utilizando las tres derivaciones de Einthoven. Para todas las mediciones se mantuvo la configuración de los electrodos sobre las clavículas y la cresta ilíaca, realizando los cambios correspondientes en las conexiones para obtener cada una de las derivaciones.
+El experimento consistió en realizar adquisiciones de la señal ECG bajo diferentes condiciones fisiológicas y utilizando las tres derivaciones de Einthoven. Para todas las mediciones se eligió la configuración de los electrodos sobre las clavículas y la cresta ilíaca, realizando los cambios correspondientes en las conexiones para obtener cada una de las derivaciones.
 
-La adquisición se realizó mediante el sistema BITalino y el software OpenSignals. El experimento se dividió en cuatro condiciones principales, realizando las adquisiciones correspondientes para los tres meridianos o derivaciones:
+El experimento se dividió en cuatro condiciones principales, realizando las adquisiciones correspondientes para los tres meridianos o derivaciones:
 
-1. **Estado basal:** 
-2. **Hiperventilación:**
-3. **Hipoventilación:** 
-4. **Actividad:** 
+1. **Estado basal** 
+2. **Hiperventilación**
+3. **Hipoventilación** 
+4. **Actividad** 
 
 
 ## Resultados
@@ -83,7 +79,7 @@ Finalmente, se registró la señal ECG asociada a la condición de actividad fí
 
 ![ECG actividad - Derivación III](ploteos/activudad_D3.png)
 
-> ANÁLISIS: En la medición con actividad física es donde mejor se aprecian los cambios. La frecuencia cardiaca está notablemente aumentada, se aprecian más irregularidades y la presencia de artefactos. 
+> ANÁLISIS: En la medición con actividad física es donde mejor se aprecian los cambios. La frecuencia cardiaca está notablemente aumentada, se aprecian más irregularidades y la presencia de artefactos. Esto se debe al considerable aumento de la frecuencia respiratoria, lo que produce aumento en el movimiento del torax, dificultando la obtención de mediciones correctas.
 
 ## Análisis final y conclusiones
 

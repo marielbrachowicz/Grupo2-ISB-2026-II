@@ -1,4 +1,4 @@
-# 7. Preguntas de la guia Bitalino ECG
+# Preguntas de la guia Bitalino ECG
 
 ### Q1. ¿Cuáles son las fuentes de ruido más típicas que afectan al ECG?
 
