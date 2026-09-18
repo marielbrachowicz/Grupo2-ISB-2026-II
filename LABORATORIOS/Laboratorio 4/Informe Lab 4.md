@@ -45,9 +45,7 @@ En esta condición se obtuvo la señal ECG correspondiente al estado de reposo p
 
 ![ECG basal - Derivación III](ploteos/basal_D3.png)
 
-> <pre>
-JEEEEEEEEEEEEEEEEEEEEJA
-</pre>
+> ANÁLISIS: En la condición basal se obtuvo una señal ECG periódica y bastante regular, correspondiente al estado de reposo del sujeto. Los ciclos cardíacos principalmente por los picos R. Esta medición sirve como referencia para comparar las modificaciones observadas durante las condiciones de hiperventilación, hipoventilación y actividad física.
 
 ### Hiperventilación
 
@@ -60,16 +58,20 @@ En esta condición se registró la señal ECG mientras se realizaba una respirac
 
 ![ECG hiperventilación - Derivación III](ploteos/hiperventilacion_D3.png)
 
+> ANÁLISIS: En la hiperventilación se obtuvo un aumento en la frecuencia y disminución de separación entre los picos R. Se observa más ruido e irregularidades, lo que se produce debido al movimiento respiratorio.
+
 ### Hipoventilación
 
 En esta condición se registró la señal ECG durante una respiración reducida. La comparación con el estado basal y con la hiperventilación permite observar posibles modificaciones relacionadas con las condiciones respiratorias.
 
 
-![ECG hipoventilación - Derivación I](ploteos/hipoventilacion_D1.png)
+![ECG hipoventilación - Derivación I](ploteos/hipoentilacion_D1.png)
 
 ![ECG hipoventilación - Derivación II](ploteos/hipoventilacion_D2.png)
 
 ![ECG hipoventilación - Derivación III](ploteos/hipoventilacion_D3.png)
+
+> ANÁLISIS: En la hipoventilación se observa nuevamente separación regular entre los picos, similar al estado basal. No se observa presencia de ruido que afecte la medición y tampoco se observa una disminución considerable de la frecuencia cardiaca.
 
 ### Actividad fisica
 
@@ -79,31 +81,12 @@ Finalmente, se registró la señal ECG asociada a la condición de actividad fí
 
 ![ECG actividad - Derivación II](ploteos/actividad_D2.png)
 
-![ECG actividad - Derivación III](ploteos/actividad_D3.png)
+![ECG actividad - Derivación III](ploteos/activudad_D3.png)
 
-## Análisis
+> ANÁLISIS: En la medición con actividad física es donde mejor se aprecian los cambios. La frecuencia cardiaca está notablemente aumentada, se aprecian más irregularidades y la presencia de artefactos. 
 
-En esta sección se analizarán las señales obtenidas considerando dos aspectos principales: **la condición fisiológica** y **la derivación utilizada**.
+## Análisis final y conclusiones
 
-Para comparar las diferentes condiciones, se deberá observar principalmente la frecuencia cardíaca, identificando los picos R y calculando los intervalos entre ellos. A partir de estos intervalos se puede estimar la frecuencia cardíaca en bpm. También se puede comparar la regularidad de los intervalos entre los diferentes ciclos cardíacos. La guía indica que los intervalos entre picos R permiten analizar la variabilidad de la frecuencia cardíaca. :contentReference[oaicite:8]{index=8}
+Se observó que la condición fisiológica puede modificar las características temporales de la señal ECG, principalmente la separación entre los picos R y, por lo tanto, la frecuencia cardíaca. Asimismo, las condiciones que involucran cambios en la respiración o movimiento pueden introducir variaciones y artefactos en la señal.
 
-También se analizarán las diferencias de amplitud y morfología de la señal entre las derivaciones I, II y III. Debido a que cada derivación mide la actividad eléctrica cardíaca desde una dirección diferente, es esperable que los componentes de la señal no presenten exactamente la misma amplitud o polaridad. La guía explica que la amplitud depende del ángulo entre la dirección del dipolo cardíaco y la dirección de medición, mientras que la dirección de la amplitud depende de la orientación del dipolo respecto a los electrodos. :contentReference[oaicite:9]{index=9}
-
-Finalmente, se evaluará la presencia de ruido y artefactos en cada adquisición. Estos pueden estar relacionados con el movimiento, la actividad muscular o la respiración. La guía destaca que el movimiento puede introducir artefactos en el ECG y que la respiración también puede influir en las características observadas en la señal. :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11}
-
-**[ESPACIO PARA DESARROLLAR EL ANÁLISIS DE LAS 12 SEÑALES]**
-
-En esta parte se compararán específicamente:
-
-- Basal vs. hiperventilación.
-- Basal vs. hipoventilación.
-- Basal vs. actividad.
-- Derivación I vs. derivación II vs. derivación III.
-- Frecuencia cardíaca en cada condición.
-- Amplitud y morfología de los complejos ECG.
-- Presencia de ruido o artefactos.
-- Regularidad de los intervalos entre los picos R.
-
-## Conclusiones
-
-**[ESPACIO PARA COLOCAR LAS CONCLUSIONES DEL EXPERIMENTO]**
+La utilización de las tres derivaciones de Einthoven permitió observar la actividad eléctrica cardíaca desde diferentes direcciones. Por esta razón, una misma actividad cardíaca puede presentar diferencias en amplitud, polaridad y morfología entre las derivaciones I, II y III.
