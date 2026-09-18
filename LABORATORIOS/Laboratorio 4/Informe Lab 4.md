@@ -79,7 +79,7 @@ Finalmente, se registró la señal ECG asociada a la condición de actividad fí
 
 ![ECG actividad - Derivación III](ploteos/activudad_D3.png)
 
-> ANÁLISIS: En la medición con actividad física es donde mejor se aprecian los cambios. La frecuencia cardiaca está notablemente aumentada, se aprecian más irregularidades y la presencia de artefactos. 
+> ANÁLISIS: En la medición con actividad física es donde mejor se aprecian los cambios. La frecuencia cardiaca está notablemente aumentada, se aprecian más irregularidades y la presencia de artefactos. Esto se debe al considerable aumento de la frecuencia respiratoria, lo que produce aumento en el movimiento del torax, dificultando la obtención de mediciones correctas.
 
 ## Análisis final y conclusiones
 
