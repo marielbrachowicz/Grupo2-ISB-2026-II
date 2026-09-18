@@ -18,10 +18,10 @@ El experimento consistió en realizar adquisiciones de la señal ECG bajo difere
 
 La adquisición se realizó mediante el sistema BITalino y el software OpenSignals. El experimento se dividió en cuatro condiciones principales, realizando las adquisiciones correspondientes para los tres meridianos o derivaciones:
 
-1. **Estado basal:** 
-2. **Hiperventilación:**
-3. **Hipoventilación:** 
-4. **Actividad:** 
+1. **Estado basal** 
+2. **Hiperventilación**
+3. **Hipoventilación** 
+4. **Actividad** 
 
 
 ## Resultados
