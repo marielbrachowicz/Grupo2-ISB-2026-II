@@ -33,15 +33,15 @@ La transformada de Fourier sirve para pasar la señal del tiempo a la frecuencia
 
 <u>Procedimiento</u>
 
-1. Se limpió con alcohol la frente y la zona detrás de la oreja.
+1. Se limpió con alcohol la frente y la zona detrás de la oreja izquierda.
 2. Se pegaron los electrodos en el sensor EEG. El electrodo de referencia se pegó detrás de la oreja.
-3. Se puso el sensor en la frente. [COMPLETAR: en qué posición quedó cada canal]
+3. Se puso el sensor en la frente.
 4. Se conectó el BITalino por Bluetooth y se abrió OpenSignals con los canales A1 y A2 a 1000 Hz.
 5. La persona se quedó sentada, quieta y con la cara relajada.
 6. Se guardó un archivo por cada situación:
     - Basal: reposo con ojos cerrados (92 s).
     - Mirar punto: mirar un punto fijo (58 s). 
-    - 5 preguntas: sobre cursos que la sujeto de prueba esta llevando.
+    - 5 preguntas: sobre matemática, no tiene que haber respuesta, pues el objetivo es hacer al cerebro pensar.
     - Lofi: música relajada (92 s). 
     - Dubstep: música pesada (92 s).
 
