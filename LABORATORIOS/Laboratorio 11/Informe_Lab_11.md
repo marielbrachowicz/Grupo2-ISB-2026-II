@@ -4,7 +4,7 @@ Integrantes: Julio Alonso Vásquez Tantaleán, Mariel Andrea Brachowicz Suarez, 
 
 <u>Resumen</u>
 
-En este laboratorio trabajamos con el notebook LAB11_ECG_Extraccion_Caracteristicas, que tiene todo el procedimiento para pasar de una señal ECG a una tabla de características con la que un algoritmo puede decidir en qué condición fisiológica se registró cada latido. El notebook sigue el flujo del artículo de Subba y Chingtham (IEEE Access, 2024), que describe cada latido con características morfológicas, estadísticas, espectrales y wavelet, y compara cinco algoritmos de machine learning.
+En este laboratorio trabajamos con el notebook LAB11_ECG_Extraccion_Caracteristicas, que tiene todo el procedimiento para pasar de una señal ECG a una tabla de características con la que un algoritmo puede decidir en qué condición fisiológica se registró cada latido.
 
 En vez de usar datos de ejemplo, usamos nuestros propios registros del laboratorio de ECG, tomados con el BITalino en 4 condiciones (basal, hiperventilación, hipoventilación y después de actividad aeróbica) y en 3 derivaciones (DI, DII y DIII), es decir, 12 archivos. El notebook tiene dos partes: en la Parte A revisamos la calidad de los datos y elegimos la derivación, y en la Parte B extrajimos 24 características por latido y comparamos los clasificadores. Al final se generó el archivo caracteristicas_ecg.csv, con 186 latidos y 24 características.
 
