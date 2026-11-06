@@ -26,7 +26,6 @@ También revisa dos problemas de adquisición. No hubo paquetes perdidos por Blu
 
 Mirando la hora de cada archivo se ve que las derivaciones se grabaron en distinto orden: DI → DII → DIII en basal e hipoventilación, y DIII → DII → DI en hiperventilación y actividad aeróbica.
 
-*Primer vistazo a las 12 señales*
 
 <p align="center">
   <img src="imagenes/senales_12.png" width="750"><br>
